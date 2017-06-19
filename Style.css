@@ -18,9 +18,8 @@ h3{color: #35342F;}
 #item{ flex-basis: 30%; padding: 40px;  color: #C4C4C4; font-size: 14px; line-height: 28px; color:#929292 }
 
 /******* footer ********/
-#footer{  max-width: 1300px; height: 20%;  background-color: #35342F; display: flex; flex-direction: column; align-items: center; 
+#footer{ height: 20%;  background-color: #35342F; display: flex; flex-direction: column; align-items: center; 
 	justify-content: space-around; font-family: "Trebuchet MS", Helvetica, sans-serif; }
-#socialmedia{ width: 12% }
 #foobar{ list-style-type: none; display: flex;   justify-content: space-between; }
 #copyright{ color: #C4C4C4; font-size: 12px; }
 #copyright a{color: white; text-decoration: none}
@@ -41,7 +40,6 @@ h2{text-align: center; font-size: 24px;  }
 	#logo img{ height: 100%; width: 180px}
 	#content{ display: block; margin: 4% 4% 4% 4%}
 	#item{ line-height: 26px; padding: 20px }  
-	#socialmedia{ width: 15% }
 	#footer{height: 10%}
 	#last{margin: auto 4% 4% 4%}
 	#blog{display: block;}
@@ -56,7 +54,6 @@ h2{text-align: center; font-size: 24px;  }
 	#welcome{ font-size: 16px; padding: 30px}
 	#logo img{height: 100%}
 	#footer{height: 10%}
-	#socialmedia{ width: 20% }
 	#blog{font-size: 10px; padding: 10px; display: block; }
 	#blogitem{line-height: 20px;}
 	h2{ font-size: 14px;  }
@@ -71,7 +68,6 @@ h2{text-align: center; font-size: 24px;  }
 	#content{ display: block; margin: 4% 4% 4% 4%;}
 	#item{font-size: 8px; line-height: 15px; padding: 8px}
 	#footer{height: 8%}
-	#socialmedia{ width: 20% }
 	#foobar li>a>img{ height: 20px; width: 20px}
 	#copyright{ font-size: 8px; }
 	#blog{font-size: 10px; padding: 8px; display: block; }
